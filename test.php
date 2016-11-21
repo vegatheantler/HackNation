@@ -1,5 +1,5 @@
 <?php
-var file = 10;
+$file = 10;
 
-echo file
+echo $file;
 ?>
